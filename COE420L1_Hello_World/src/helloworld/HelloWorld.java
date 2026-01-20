@@ -6,6 +6,6 @@ public class HelloWorld {
 	}
 	
 	public void featureB() {
-		System.out.println("Feature B");
+		System.out.println("Feature B - Attempt 2");
 	}
 }
